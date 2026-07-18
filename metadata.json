@@ -1,0 +1,6 @@
+{
+  "name": "AirGuard AI",
+  "description": "Smart air quality prediction, real-time monitoring, and an intelligent AI assistant with voice capabilities.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
